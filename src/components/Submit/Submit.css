@@ -1,0 +1,17 @@
+.submit-inputs {
+  margin-top: 40px;
+}
+.submit-title {
+  margin-bottom: 40px;
+}
+.file-submit {
+  height: 16rem;
+  width: 100%;
+  border-radius: 7px;
+  border: 1px dotted #c6c6c6;
+  background-color: #fff;
+}
+.ant-upload-list-item-name {
+  color: black;
+  font-family: "Calibri";
+}

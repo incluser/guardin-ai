@@ -1,0 +1,8 @@
+.goal-form {
+  margin-top: 30px;
+}
+.goal-actions {
+  display: flex;
+  margin-top: 30px;
+  gap: 40px;
+}

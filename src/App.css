@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  display: flex;
+}
+.sidebar {
+  width: 20%;
+  background-color: white;
+  min-height: 100vh;
+  border-right: 1px solid #ebedf1;
+}
+.forma {
+  background-color: #f9fafe;
+  width: 80%;
+  height: 100%;
+  display: flex;
+  align-items: start;
+  padding: 100px 0;
+  justify-content: center;
+}
+.form-container {
+  height: auto;
+  width: 800px;
+}
+h1 {
+  font-size: 25px;
+  font-weight: 600;
+  color: #242424;
+  margin-bottom: 20px;
+}
+p {
+  font-size: 20px;
+  font-weight: 500;
+  color: #242424;
+}
+.form-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
